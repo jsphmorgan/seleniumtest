@@ -1,3 +1,9 @@
+using System.IO;
+using System.Reflection;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using Xunit;
+
 namespace seleniumTests {
     public class LoginTests {
         private static string goodUsername = "standard_user";

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILr8ZmpDJtad8MiYs48FjJBBXs8JGK8Qm5YH2xO7+r8JnsKDPsYtwe5PFBYxLPhwj7vsHQBisfS7hqAa415KYw==",
+  "dgSpecHash": "nqMUC3NkQq4kRir2vZ96XfK8N6SO26DptKl5z3pQOVzUaIh23DpciorCreCNwfANfPfYhpR6wsp57gRijCfUzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jsphm\\seleniumtest\\seleniumtest.csproj",
+  "projectFilePath": "C:\\Users\\jsphm\\Documents\\GitHub\\seleniumtest\\seleniumtest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jsphm\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
     "C:\\Users\\jsphm\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
@@ -97,7 +97,11 @@
     "C:\\Users\\jsphm\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\jsphm\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "C:\\Users\\jsphm\\.nuget\\packages\\xunit.runner.console\\2.4.1\\xunit.runner.console.2.4.1.nupkg.sha512",
-    "C:\\Users\\jsphm\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
+    "C:\\Users\\jsphm\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512",
+    "C:\\Users\\jsphm\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jsphm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jsphm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jsphm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
   ],
   "logs": []
 }

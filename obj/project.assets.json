@@ -5849,7 +5849,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DotNetSeleniumExtras.PageObjects.Core >= 4.3.0",
+      "DotNetSeleniumExtras.PageObjects.Core >= *",
       "DotNetSeleniumExtras.WaitHelpers >= *",
       "Microsoft.NET.Test.Sdk >= 17.2.0",
       "Selenium.Support >= 4.3.0",
@@ -5866,11 +5866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jsphm\\seleniumtest\\seleniumtest.csproj",
+      "projectUniqueName": "C:\\Users\\jsphm\\Documents\\GitHub\\seleniumtest\\seleniumtest.csproj",
       "projectName": "seleniumtest",
-      "projectPath": "C:\\Users\\jsphm\\seleniumtest\\seleniumtest.csproj",
+      "projectPath": "C:\\Users\\jsphm\\Documents\\GitHub\\seleniumtest\\seleniumtest.csproj",
       "packagesPath": "C:\\Users\\jsphm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jsphm\\seleniumtest\\obj\\",
+      "outputPath": "C:\\Users\\jsphm\\Documents\\GitHub\\seleniumtest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jsphm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5883,6 +5883,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5894,10 +5895,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "DotNetSeleniumExtras.PageObjects.Core": {
             "target": "Package",
-            "version": "[4.3.0, )"
+            "version": "[*, )"
           },
           "DotNetSeleniumExtras.WaitHelpers": {
             "target": "Package",
@@ -5942,12 +5944,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.26, 3.1.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
