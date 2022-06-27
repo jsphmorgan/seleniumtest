@@ -105,3 +105,10 @@ C:\Users\jsphm\Documents\GitHub\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtes
 C:\Users\jsphm\Documents\GitHub\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtest.dll
 C:\Users\jsphm\Documents\GitHub\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtest.pdb
 C:\Users\jsphm\Documents\GitHub\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtest.genruntimeconfig.cache
+c:\Users\jsphm\Documents\GitHub\seleniumtest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+c:\Users\jsphm\Documents\GitHub\seleniumtest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+c:\Users\jsphm\Documents\GitHub\seleniumtest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+c:\Users\jsphm\Documents\GitHub\seleniumtest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+c:\Users\jsphm\Documents\GitHub\seleniumtest\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+c:\Users\jsphm\Documents\GitHub\seleniumtest\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+c:\Users\jsphm\Documents\GitHub\seleniumtest\bin\Debug\netcoreapp3.1\nunit.framework.dll
