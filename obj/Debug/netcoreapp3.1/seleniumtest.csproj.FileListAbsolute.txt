@@ -1,0 +1,4 @@
+C:\Users\jsphm\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtest.csprojAssemblyReference.cache
+C:\Users\jsphm\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtest.AssemblyInfoInputs.cache
+C:\Users\jsphm\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtest.AssemblyInfo.cs
+C:\Users\jsphm\seleniumtest\obj\Debug\netcoreapp3.1\seleniumtest.csproj.CoreCompileInputs.cache
