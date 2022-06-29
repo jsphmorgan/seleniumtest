@@ -2,7 +2,7 @@ using OpenQA.Selenium;
 
 namespace seleniumTests
 {
-    public class Loginpageobjects
+    public class LoginPageObjects
     {
         public IWebElement userName(IWebDriver driver) {
             return driver.FindElement(By.Id("user-name"));

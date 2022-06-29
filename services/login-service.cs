@@ -4,8 +4,7 @@ namespace seleniumTests {
     public class LoginService {
         public string validationText;
         public string login(IWebDriver driver, string userName, string password, bool error) {
-            Loginpageobjects objects = new Loginpageobjects();
-            driver.Navigate().GoToUrl("https://saucedemo.com");
+            LoginPageObjects objects = new LoginPageObjects();
             objects.userName(driver).SendKeys(userName);
             objects.password(driver).SendKeys(password);
             objects.loginButton(driver).Click();
